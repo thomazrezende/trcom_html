@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[66]]></id>
+		<id_cliente><![CDATA[52]]></id_cliente>
+		<id_parceiro><![CDATA[51]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[Abelha]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[]]></url>
+		<tx_info_pt><![CDATA[<p>Inser&ccedil;&atilde;o de abelha digital para v&iacute;deo-instala&ccedil;&atilde;o da artista pl&aacute;stica Beth Moyses.</p>
+<p>Este trabalho foi um desafio muito interessante, pois a artista queria um resultado com alto grau de realismo. Optei pelo recorte e manipula&ccedil;&atilde;o de fotos de uma abelha e procurei reproduzir os movimentos de voo e corporais de forma bem natural.&nbsp;</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>produtora</strong><br />Olhar Perif&eacute;rico&nbsp;</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2011-04-13]]></data>
+		<layout><![CDATA[emb251/w_emb,img499/w50,img498/w50]]></layout>
+		<sb_layout><![CDATA[sb173,sb174,sb175,sb176,sb177,sb178]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[251]]></id>
+			<id_proj><![CDATA[66]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[Vídeo]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/39027445?title=0&amp;byline=0&amp;portrait=0&amp;color=ffd492" width="640" height="352" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[498]]></id>
+			<id_proj><![CDATA[66]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[499]]></id>
+			<id_proj><![CDATA[66]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[21]]></id>
+		<id_cliente><![CDATA[20]]></id_cliente>
+		<id_parceiro><![CDATA[0]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[studioideias.com.br]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://www.studioideias.com.br]]></url>
+		<tx_info_pt><![CDATA[<p>Website do escrit&oacute;rio de pesquisa e inova&ccedil;&atilde;o Studio Ideias.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>fotografia</strong><br />Fabio Issao</p>
+<p><strong>linguagens</strong><br />ActionScript 2.0</p>
+<p><strong>programas</strong><br />Adobe Flash</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2008-01-01]]></data>
+		<layout><![CDATA[img582/w100,img583/w50,img584/w50,img585/w50,img586/w50]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[582]]></id>
+			<id_proj><![CDATA[21]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[583]]></id>
+			<id_proj><![CDATA[21]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[584]]></id>
+			<id_proj><![CDATA[21]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[585]]></id>
+			<id_proj><![CDATA[21]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[586]]></id>
+			<id_proj><![CDATA[21]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

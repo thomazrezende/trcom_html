@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[104]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[A intolerância ao Glúten]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/noticia/saude/doenca-celiaca-mata-42-000-criancas-por-ano-no-mundo-mas-permanece-desconhecida-no-brasil]]></url>
+		<tx_info_pt><![CDATA[<p>Ainda desconhecida pela grande maioria da popula&ccedil;&atilde;o &ndash; e, infelizmente, por parte da classe m&eacute;dica &ndash; a doen&ccedil;a se caracteriza pela intoler&acirc;ncia ao gl&uacute;ten, uma prote&iacute;na presente no trigo, na cevada e no centeio</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>repostagem</strong><br />Aretha Yarak</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[0]]></publicado_en>
+		<data><![CDATA[2011-08-05]]></data>
+		<layout><![CDATA[img732/w50,img733/w50,img734/w50,img735/w50]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[732]]></id>
+			<id_proj><![CDATA[104]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[733]]></id>
+			<id_proj><![CDATA[104]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[734]]></id>
+			<id_proj><![CDATA[104]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[735]]></id>
+			<id_proj><![CDATA[104]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

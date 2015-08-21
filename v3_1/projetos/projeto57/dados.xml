@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[57]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[Infográficos - conjunto 1]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/multimidia/infograficos/]]></url>
+		<tx_info_pt><![CDATA[<p>Grupo 1 de infogr&aacute;ficos desenvolvidos para o site de Veja.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>coordena&ccedil;&atilde;o </strong><br />Andr&eacute;ia Caires<br />Carlos Graieb<br /><br /><strong>equipe</strong><br />Luciana Martins<br />Miriam Silva<br />Tiago Maricate&nbsp;</p>
+<p><strong>programas</strong><br />Adobe Flash<br />Adobe Photoshop<br />Adobe Illustrator</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[0]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2010-10-06]]></data>
+		<layout><![CDATA[]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[181]]></id>
+			<id_proj><![CDATA[57]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Retrato da imigração no mundo]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[Conheça os países cujos problemas migratórios viraram notícia recentemente.]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/imigracao/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[182]]></id>
+			<id_proj><![CDATA[57]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Economia brasileira...]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[...em 23 indicadores interativos]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/economia_brasileira]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[183]]></id>
+			<id_proj><![CDATA[57]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Família Kim]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[Conheça a família do ditador que governa o país mais isolado do mundo.]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/noticia/internacional/coreia-do-norte-elege-nova-direcao-do-partido-unico]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[184]]></id>
+			<id_proj><![CDATA[57]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[O horário eleitoral na TV faz diferença nas campanhas?]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[O que aconteceu nas eleições passadas e as apostas dos marqueteiros para 2010]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/horario_eleitoral/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[185]]></id>
+			<id_proj><![CDATA[57]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Tecnologia de ponta e preço nas alturas]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[As principais características de uma bicicleta de competição.]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/noticia/esporte/tecnologia-de-ponta-e-preco-nas-alturas]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[186]]></id>
+			<id_proj><![CDATA[57]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[O novo congresso]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[Conheça o peso dos partidos, confira o novo desenho da Casa e compare com as últimas legislaturas.]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/eleicoes/eleicoes-2010-novo-congresso-camara.shtml]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[187]]></id>
+			<id_proj><![CDATA[57]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Eleições 2010 - presidente]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[Confira o desempenho dos candidatos nos estados e compare com os resultados das últimas eleições]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/eleicoes/eleicoes-2010-presidente.shtml]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

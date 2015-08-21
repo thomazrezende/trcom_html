@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[60]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[Infográficos - conjunto 4]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/multimidia/infograficos/]]></url>
+		<tx_info_pt><![CDATA[<p>Grupo 4 de infogr&aacute;ficos desenvolvidos para o site de Veja.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>coordena&ccedil;&atilde;o&nbsp;<br /></strong>Andr&eacute;ia Caires<br />Carlos Graieb</p>
+<p><strong>equipe</strong><br />Luciana Martins<br />Miriam Silva<br />Tiago Maricate&nbsp;</p>
+<p><strong>programas</strong><br />Adobe Flash<br />Adobe Photoshop<br />Adobe Illustrator</p>
+<p>&nbsp;</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[0]]></publicado_pt>
+		<publicado_en><![CDATA[1]]></publicado_en>
+		<data><![CDATA[2011-09-16]]></data>
+		<layout><![CDATA[]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[204]]></id>
+			<id_proj><![CDATA[60]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[O xadrez americano: entenda o que está em jogo nos Estados Unidos]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/xadrez_eua/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[205]]></id>
+			<id_proj><![CDATA[60]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Doença celíaca mata 42.000 crianças por ano no mundo]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/noticia/saude/doenca-celiaca-mata-42-000-criancas-por-ano-no-mundo-mas-permanece-desconhecida-no-brasil]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[206]]></id>
+			<id_proj><![CDATA[60]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Imigrantes e muçulmanos na Europa - de 1990 a 2010]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/muculmanos_europa/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[207]]></id>
+			<id_proj><![CDATA[60]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Rock in Rio – Quem foi]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/rock_in_rio/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[208]]></id>
+			<id_proj><![CDATA[60]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Qual é a música?]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/rock_in_rio_musicas/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[209]]></id>
+			<id_proj><![CDATA[60]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Como ficaria a Câmara se o voto distrital já estivesse valendo em 2010]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/multimidia/infograficos/voto-distrital-mapa]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

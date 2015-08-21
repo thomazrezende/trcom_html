@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[83]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[A arte de ressuscitar animais extintos]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/multimidia/video/a-arte-de-ressuscitar-animais-extintos]]></url>
+		<tx_info_pt><![CDATA[<p>Cientistas j&aacute; sabem como criar clones de esp&eacute;cies que h&aacute; muito n&atilde;o andam pela Terra e assim dar vida a animais que em teoria nunca mais existiriam. A pergunta &eacute;: isso &eacute; certo?</p>
+<p>&nbsp;</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>roteiro/apresenta&ccedil;&atilde;o</strong><br />Filipe Vilicic</p>
+<p><strong>Dire&ccedil;&atilde;o</strong><br />Raquel Roshino<br />Alexandre Oliveira</p>
+<p><strong>imagens</strong><br />Mariana Paschoal</p>
+<p><strong>Ilustra&ccedil;&atilde;o</strong><br /><a href="http://www.sandrocastelli.com/" target="_blank">Sandro Castelli</a></p>
+<p>&nbsp;</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2013-04-18]]></data>
+		<layout><![CDATA[emb329/w_emb]]></layout>
+		<sb_layout><![CDATA[sb91,sb92,sb93,sb94,sb95,sb96,sb97,sb98]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[329]]></id>
+			<id_proj><![CDATA[83]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[video]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="//player.vimeo.com/video/70864745?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

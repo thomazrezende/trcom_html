@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[26]]></id>
+		<id_cliente><![CDATA[0]]></id_cliente>
+		<id_parceiro><![CDATA[16]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[Metástase]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[]]></url>
+		<tx_info_pt><![CDATA[<p>Anima&ccedil;&atilde;o autoral produzida como projeto final de gradua&ccedil;&atilde;o pela <a href="http://www.usp.br/fau" target="_blank">FAU USP</a>.</p>
+<p>Quando decidi fazer essa anima&ccedil;&atilde;o, percebi que precisaria mergulhar totalmente na proposta e participar de todas as etapas que envolveriam a produ&ccedil;&atilde;o. Assim fui roteirista, diretor, animador, figurinista, cen&oacute;grafo, produtor, editor, cinegrafista e, finalmente, ator. Apenas o &aacute;udio preferi deixar para profissionais mais qualificados e talentosos, embora tamb&eacute;m tenha acompanhado essa etapa de perto. O processo todo foi muit&iacute;ssimo gratificante e at&eacute; hoje tenho esse projeto como uma de minhas melhores produ&ccedil;&otilde;es.</p>
+<p>&nbsp;</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>orienta&ccedil;&atilde;o acad&ecirc;mica<br /></strong><a href="http://www.vicentegil.com.br" target="_blank">Prof. Dr. Vicente Gil Filho</a><strong><br /><br />&aacute;udio e trilha sonora<br /></strong><a href="http://www.denisduarte.com.br" target="_blank">Denis Duarte</a></p>
+<p><strong>piano</strong><br />Daniel Grajew</p>
+<p><strong>voz </strong><br />Ci&ccedil;a Bracale</p>
+<p><strong>exibi&ccedil;&otilde;es</strong><br />- Selecionado para o <a href="http://www.animamundi.com.br/" target="_blank">Animamundi </a>2005<br />- Exibido no programa <a href="http://www2.tvcultura.com.br/zoom/" target="_blank">ZOOM</a> da TV cultura</p>
+<p><strong>programas</strong><br />Adobe After Effects <br />Adobe Premiere <br />Adobe Photoshop</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2004-03-01]]></data>
+		<layout><![CDATA[emb223/w_emb,emb224/w_emb]]></layout>
+		<sb_layout><![CDATA[sb287,sb288,sb289,sb291,sb292,sb293,sb294,sb295]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[223]]></id>
+			<id_proj><![CDATA[26]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[Filme]]></label_pt>
+			<label_en><![CDATA[Movie]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/38879473?title=0&byline=0&portrait=0&color=ffd492" width="640" height="472" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[224]]></id>
+			<id_proj><![CDATA[26]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[Trailer]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/38887818?title=0&amp;byline=0&amp;portrait=0&amp;color=ffd492" width="640" height="432" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[58]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[Infográficos - conjunto 2]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[]]></url>
+		<tx_info_pt><![CDATA[<p>Grupo 2 de infogr&aacute;ficos desenvolvidos para o site de Veja.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>coordena&ccedil;&atilde;o&nbsp;<br /></strong>Andr&eacute;ia Caires<br />Carlos Graieb</p>
+<p><strong>equipe</strong><br />Luciana Martins<br />Miriam Silva<br />Tiago Maricate&nbsp;</p>
+<p><strong>programas</strong><br />Adobe Flash<br />Adobe Photoshop<br />Adobe Illustrator</p>
+<p>&nbsp;</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[0]]></publicado_pt>
+		<publicado_en><![CDATA[1]]></publicado_en>
+		<data><![CDATA[2011-03-10]]></data>
+		<layout><![CDATA[]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[188]]></id>
+			<id_proj><![CDATA[58]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Morte na beira da praia]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/jubarte/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[189]]></id>
+			<id_proj><![CDATA[58]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[A descentralização da indústria automotiva global]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/industria_automotiva/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[190]]></id>
+			<id_proj><![CDATA[58]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[De olho no cosmo]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/noticia/ciencia/a-era-do-big-brother-espacial]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[191]]></id>
+			<id_proj><![CDATA[58]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Instabilidade política ameaça governos de nove países]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/crise_politica/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[192]]></id>
+			<id_proj><![CDATA[58]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Rúgbi]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/rugbi/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[193]]></id>
+			<id_proj><![CDATA[58]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Um raio X da crise europeia]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/crise-europeia/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[194]]></id>
+			<id_proj><![CDATA[58]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[A última viagem do Discovery]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/discovery/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[195]]></id>
+			<id_proj><![CDATA[58]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[A maratona do voto]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/infograficos/maratona-do-voto/]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

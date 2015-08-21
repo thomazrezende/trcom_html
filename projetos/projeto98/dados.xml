@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[98]]></id>
+		<id_cliente><![CDATA[0]]></id_cliente>
+		<id_parceiro><![CDATA[16]]></id_parceiro>
+		<id_suporte><![CDATA[3]]></id_suporte>
+		<projeto_pt><![CDATA[A Violência do Trânsito no Brasil]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://www.TRCOMrezende.com/infovis/mt/]]></url>
+		<tx_info_pt><![CDATA[<p>Qual o tamanho, em n&uacute;meros, das trag&eacute;dias de tr&acirc;nsito que acontecem todos os dias nas cidades brasileiras? Tr&ecirc;s profissionais das &aacute;reas de comunica&ccedil;&atilde;o e design buscaram uma maneira objetiva, simples e visual de responder a essa pergunta com o prop&oacute;sito de chamar a aten&ccedil;&atilde;o para um tema que, apesar de grave - &eacute; a segunda maior causa de mortes no pa&iacute;s - ainda &eacute; negligenciado pelo poder p&uacute;blico e pela imprensa.&nbsp;</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>co-autoria</strong><br />Diana Assenato<br />Thiago Vecks</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[0]]></publicado_en>
+		<data><![CDATA[2014-04-09]]></data>
+		<layout><![CDATA[img650/w100,ban170/w100]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[650]]></id>
+			<id_proj><![CDATA[98]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

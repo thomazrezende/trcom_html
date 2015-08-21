@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[102]]></id>
+		<id_cliente><![CDATA[62]]></id_cliente>
+		<id_parceiro><![CDATA[57]]></id_parceiro>
+		<id_suporte><![CDATA[3]]></id_suporte>
+		<projeto_pt><![CDATA[Envisioning Emerging Technologies]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://www.envisioning.io/horizons]]></url>
+		<tx_info_pt><![CDATA[<p>Tecnologia &eacute; um dos mais evidentes, persistentes e subestimados agentes de mudan&ccedil;a. Este mapa de tecnologias futuras oferece uma vis&atilde;o detalhada sobre potenciais avan&ccedil;os tecnol&oacute;gicos em seis &aacute;reas do conhecimento, escolhidas por sua probabilidade de gerar rupturas significantes no trabalho, vida, empresas e pol&iacute;tica nos pr&oacute;ximos 15 anos.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>co-autoria</strong><br />Michell Zappa</p>
+<p><strong>pesquisa</strong><br />Michell Zappa<br />Steffen Christensen</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[0]]></publicado_en>
+		<data><![CDATA[2014-04-05]]></data>
+		<layout><![CDATA[img670/w100,ban192/w100,ban197/w50,ban198/w50]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[670]]></id>
+			<id_proj><![CDATA[102]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

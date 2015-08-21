@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[93]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[O bom stress]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/multimidia/video/saiba-porque-o-stress-bem-dosado-pode-ser-otimo]]></url>
+		<tx_info_pt><![CDATA[<p>Estudos questionam o papel de vil&atilde;o do stress sugerindo que a irrita&ccedil;&atilde;o do dia a dia, se bem gerenciada, ajuda em situa&ccedil;&otilde;es de press&atilde;o, deixa a mem&oacute;ria mais eficaz e o c&eacute;rebro &aacute;gil.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>texto/apresenta&ccedil;&atilde;o</strong><br />Filipe Vilicic&nbsp;</p>
+<p><strong>dire&ccedil;&atilde;o</strong><br />Alexandre Oliveira<br />Raquel Hoshino</p>
+<p>&nbsp;</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2013-07-24]]></data>
+		<layout><![CDATA[emb396/w_emb]]></layout>
+		<sb_layout><![CDATA[sb37,sb38,sb39,sb40,sb41,sb42,sb43,sb44]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[396]]></id>
+			<id_proj><![CDATA[93]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="//player.vimeo.com/video/74882418?title=0&byline=0&portrait=0&color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

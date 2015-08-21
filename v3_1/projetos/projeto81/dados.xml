@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[81]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[Conclave]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/multimidia/infograficos/conclave]]></url>
+		<tx_info_pt><![CDATA[<p>Uma mudan&ccedil;a na Constitui&ccedil;&atilde;o Apost&oacute;lica definida por Bento XVI nesta semana permitir&aacute; que o conclave, encontro eclesi&aacute;stico que definir&aacute; seu sucessor, tenha in&iacute;cio antes do dia 15 de mar&ccedil;o, prazo originalmente estipulado. As regras anteriores previam um per&iacute;odo de 15 a 20 dias ap&oacute;s o in&iacute;cio da S&eacute; Vacante &ndash; quando a Igreja Cat&oacute;lica fica sem seu principal representante &ndash; para que todos os cardeais chegassem ao Vaticano. O cen&aacute;rio mudou com o an&uacute;ncio pr&eacute;vio do fim do pontificado de Bento XVI, a partir de 1&ordm; de mar&ccedil;o. Confira como ser&aacute; o conclave.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>texto</strong><br />Cl&aacute;udia Oliveira</p>
+<p><strong>linguagem</strong><br />javascript + jQuery</p>
+<p><strong>programas</strong><br />Adobe Illustrator<br />Adobe Photoshop<br />Adobe Dreamweaver&nbsp;</p>
+<p>&nbsp;</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2013-03-08]]></data>
+		<layout><![CDATA[img419/w100,img420/w50,img421/w50,img422/w50,img424/w50,img423/w100]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[419]]></id>
+			<id_proj><![CDATA[81]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[420]]></id>
+			<id_proj><![CDATA[81]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[421]]></id>
+			<id_proj><![CDATA[81]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[422]]></id>
+			<id_proj><![CDATA[81]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[423]]></id>
+			<id_proj><![CDATA[81]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[424]]></id>
+			<id_proj><![CDATA[81]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

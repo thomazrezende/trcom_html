@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[42]]></id>
+		<id_cliente><![CDATA[36]]></id_cliente>
+		<id_parceiro><![CDATA[45]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[Pristiq]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[]]></url>
+		<tx_info_pt><![CDATA[<p>Dire&ccedil;&atilde;o de arte, vinhetas, infografia e p&oacute;s-produ&ccedil;&atilde;o para v&iacute;deo de apresenta&ccedil;&atilde;o do medicamento Pristiq, da <a href="http://www.wyeth.com.br/br" target="_blank">Wyeth</a>.</p>
+<p>Todo o visual do trabalho precisou seguir um <em>folder</em> impresso fornecido pelo cliente. Isso acabou gerando (na minha opini&atilde;o) alguns ru&iacute;dos visuais, como aquelas as plantas amarelas crescendo, que nunca me agradaram. No entanto, tamb&eacute;m gerou resultados positivos, como a transforma&ccedil;&atilde;o das fotos de abertura de cap&iacute;tulo no impresso em cen&aacute;rios 3D animados. De qualquer forma esse trabalho representou um desafio muito interessante e o resultado final me agrada muito.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>produtora</strong><br /><a href="http://www.apneiafilmes.com.br/" target="_blank">Apn&eacute;ia Filmes</a></p>
+<p><strong>dire&ccedil;&atilde;o</strong><br />Daniel Caselli<br />Rodrigo Rebou&ccedil;as</p>
+<p><strong>co-autoria</strong><br />Fabio Issao</p>
+<p><strong>programas</strong><br />Adobe After Effects <br />Adobe Illustrator <br />Adobe Photoshop</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2009-02-01]]></data>
+		<layout><![CDATA[emb243/w_emb,emb245/w_emb,emb244/w_emb]]></layout>
+		<sb_layout><![CDATA[sb221,sb222,sb223,sb224,sb225,sb226,sb227,sb229]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[243]]></id>
+			<id_proj><![CDATA[42]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[Infográficos]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/39020965?title=0&byline=0&portrait=0&color=ffd492" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[244]]></id>
+			<id_proj><![CDATA[42]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[Abertura de capítulos]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/39020966?title=0&amp;byline=0&amp;portrait=0&amp;color=ffd492" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[245]]></id>
+			<id_proj><![CDATA[42]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[Vinheta]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/39020964?title=0&byline=0&portrait=0&color=ffd492" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

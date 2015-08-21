@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[61]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[Infográficos - conjunto 5]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/multimidia/infograficos/]]></url>
+		<tx_info_pt><![CDATA[<p>Grupo 5 de infogr&aacute;ficos desenvolvidos para o site de Veja.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>coordena&ccedil;&atilde;o</strong><br />Andr&eacute;ia Caires<br />Carlos Graieb</p>
+<p><strong>equipe</strong><br />Luciana Martins<br />Miriam Silva<br />Tiago Maricate</p>
+<p><strong>programas</strong><br />Adobe Flash<br />Adobe Photoshop<br />Adobe Illustrator</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[0]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2012-03-19]]></data>
+		<layout><![CDATA[]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[210]]></id>
+			<id_proj><![CDATA[61]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[A energia nuclear pós-Fukushima]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/multimidia/infograficos/a-energia-nuclear-pos-fukushima]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[211]]></id>
+			<id_proj><![CDATA[61]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Nasa lança com sucesso missão mais ambiciosa a Marte desde 1975]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/noticia/ciencia/nasa-lanca-com-sucesso-missao-mais-ambiciosa-a-marte-desde-1970]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[212]]></id>
+			<id_proj><![CDATA[61]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[A aids no mundo]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/multimidia/infograficos/a-aids-no-mundo]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[213]]></id>
+			<id_proj><![CDATA[61]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Empresa apontada a mais inovadora do Brasil mostra que vespas podem substituir agrotóxicos]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/noticia/ciencia/empresa-mais-inovadora-do-brasil-mostra-que-vespas-podem-substituir-agrotoxicos#infografico]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[214]]></id>
+			<id_proj><![CDATA[61]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Réveillon Copacabana 2012]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/multimidia/infograficos/reveillon-copacabana-2012]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[215]]></id>
+			<id_proj><![CDATA[61]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Enchentes: por que a tragédia se repete todos os anos?]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://veja.abril.com.br/multimidia/infograficos/enchentes-por-que-a-tragedia-se-repete-todos-os-anos]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

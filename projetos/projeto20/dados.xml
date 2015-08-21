@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[20]]></id>
+		<id_cliente><![CDATA[1]]></id_cliente>
+		<id_parceiro><![CDATA[53]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[Vídeo Brasiliana - v1]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[]]></url>
+		<tx_info_pt><![CDATA[<p>Dire&ccedil;&atilde;o de arte, vinheta de abertura e p&oacute;s-produ&ccedil;&atilde;o para v&iacute;deo institucional produzido para a <a href="http://www.brasiliana.usp.br/" target="_blank">Biblioteca Brasiliana USP</a>.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>dire&ccedil;&atilde;o</strong><br />Luiz Bargmann</p>
+<p><strong>m&uacute;sica</strong><br /><a href="http://www.uakti.com.br/" target="_blank">Uakti</a></p>
+<p><strong>programas</strong><br />Adobe After Effects <br />Adobe Illustrator <br />Adobe Photoshop</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2007-06-01]]></data>
+		<layout><![CDATA[emb233/w_emb,emb234/w_emb]]></layout>
+		<sb_layout><![CDATA[sb233,sb234,sb235,sb236,sb237,sb238,sb240,sb241]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[233]]></id>
+			<id_proj><![CDATA[20]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[Abertura]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/39002219?title=0&byline=0&portrait=0&color=ffd492" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[234]]></id>
+			<id_proj><![CDATA[20]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[Pós-produção]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/39002218?title=0&byline=0&portrait=0&color=ffd492" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

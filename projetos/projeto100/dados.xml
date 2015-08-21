@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[100]]></id>
+		<id_cliente><![CDATA[60]]></id_cliente>
+		<id_parceiro><![CDATA[0]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[Hidrelétricas na Bacia do Tapajós]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://www.wwf.org.br/tapajos]]></url>
+		<tx_info_pt><![CDATA[<p>Hidroeletricidade &eacute; um tema delicado e que necessita de muita aten&ccedil;&atilde;o por parte das autoridades governamentais, empresas, organiza&ccedil;&otilde;es n&atilde;o governamentais e sociedade civil. Apesar de ser considerada uma forma de produ&ccedil;&atilde;o de energia limpa, a instala&ccedil;&atilde;o e opera&ccedil;&atilde;o de uma usina hidrel&eacute;trica pode trazer impactos significativos a biodiversidade. A pesquisa que &eacute; base para esta solicita&ccedil;&atilde;o buscou realizar um apanhado geral em rela&ccedil;&atilde;o aos impactos ambientais e benef&iacute;cios gerados pela exist&ecirc;ncia de hidrel&eacute;tricas na regi&atilde;o do Tapaj&oacute;s.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>Laborat&oacute;rio de Ecologia da Paisagem - WWF Brasil</strong><br />M&aacute;rio Barroso<br />Paula Hanna Valdujo</p>
+<p><strong>pesquisadores</strong><br />Marcelo Bassols Raseira (CEPAM/ICMBio), Jos&eacute; Senhorini (CEPTA/ICMBio), Zuleica Castilhos (CETEM), Mauro Lambert (IBGE), Hellen Cano (IBGE), Vera F. da Silva (INPA), Luiza Magalli Henriques (INPA), Jansen Zuanon (INPA), Efrem Ferreira (INPA), William Ernest Magnusson (INPA),: Vidal Mansano (JBRJ), S&eacute;rgio Vaz (MNRJ), Jos&eacute; de Souza Junior (MPEG), Andr&eacute; Ravetta (MPEG), Alexandre Aleixo (MPEG), Ronaldo Borges &nbsp;Barthem (MPEG), Teresa Cristina Avila-Pires (MPEG), Leandro Valle Ferreira (MPEG), Paulo Petry (TNC), Carlos Freitas (UFAM), C&eacute;lia Regina Soares (UNEMAT), &nbsp;Fl&aacute;vio Lima (UNICAMP), Alexandre Persequillo (USP), Carlos Ernesto Candia-Gallardo (USP), Luis F&aacute;bio da Silveira (USP).</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[0]]></publicado_en>
+		<data><![CDATA[2014-07-04]]></data>
+		<layout><![CDATA[ban204/w100,ban205/w100,ban206/w50,ban207/w50,ban208/w100]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+	</arquivos>
+</projeto>

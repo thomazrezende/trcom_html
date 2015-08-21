@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[92]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[Mata Atlântica]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/multimidia/video/por-que-as-florestas-dependem-tanto-dos-passaros]]></url>
+		<tx_info_pt><![CDATA[<p>Cientistas brasileiros comprovam uma l&oacute;gica catastr&oacute;fica: o desaparecimento de aves maiores da Mata Atl&acirc;ntica leva &agrave; diminui&ccedil;&atilde;o no n&uacute;mero, na densidade e na resist&ecirc;ncia das &aacute;rvores.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>reportagem/apresenta&ccedil;&atilde;o</strong><br /> Felipe Vilicic</p>
+<p><strong>dire&ccedil;&atilde;o</strong><br />Fernanda Monte Claro&nbsp;</p>
+<p><strong>edi&ccedil;&atilde;o </strong><br />Alexandre Oliveira</p>
+<p><strong>imagens</strong><br />Pedro Foga&ccedil;a&nbsp;</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2013-07-12]]></data>
+		<layout><![CDATA[emb339/w_emb]]></layout>
+		<sb_layout><![CDATA[sb46,sb47,sb49,sb50,sb51,sb52,sb53,sb54]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[339]]></id>
+			<id_proj><![CDATA[92]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[video]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="//player.vimeo.com/video/70864746?title=0&byline=0&portrait=0&color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

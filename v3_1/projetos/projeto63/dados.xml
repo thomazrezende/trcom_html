@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[63]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[Prêmio Jovens Inspiradores]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[]]></url>
+		<tx_info_pt><![CDATA[<p>Dire&ccedil;&atilde;o de arte e anima&ccedil;&atilde;o para v&iacute;deos de divulga&ccedil;&atilde;o do <a href="http://veja.abril.com.br/premio-jovens-inspiradores/" target="_blank">Pr&ecirc;mio Jovens Inspiradores</a>, realizado pela parceria <a href="http://veja.abril.com.br/" target="_blank">Veja.com</a> e <a href="http://www.fundacaoestudar.com.br/" target="_blank">Funda&ccedil;&atilde;o Estudar</a>.&nbsp;</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>dire&ccedil;&atilde;o<br /></strong><a href="https://vimeo.com/andreacassola" target="_blank">Andr&eacute;a Cassola</a></p>
+<p><strong>produ&ccedil;&atilde;o<br /></strong>Paula Pop&oacute; Lopes<br /><br /><strong>trilha e sonoplastia<br /></strong>Guilherme Sapotone</p>
+<p><strong>roteiro<br /></strong>Edson Fukuda</p>
+<p><strong>fotografia, edi&ccedil;&atilde;o e locu&ccedil;&atilde;o<br /></strong><a href="http://vimeo.com/channels/macau" target="_blank">Macau Amaral</a></p>
+<p><strong>assistente de v&iacute;deo e &aacute;udio<br /></strong>Anderson Alves</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2012-03-19]]></data>
+		<layout><![CDATA[emb217/w_emb,emb218/w_emb,emb280/w_emb,emb302/w_emb]]></layout>
+		<sb_layout><![CDATA[sb155,sb156,sb157,sb158,sb159,sb161,sb162,sb163]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[217]]></id>
+			<id_proj><![CDATA[63]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[vídeo 1 - Depoimentos]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/38879016?title=0&byline=0&portrait=0&color=ffd492" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[218]]></id>
+			<id_proj><![CDATA[63]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[vídeo 2 - gustavo ioschpe]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/38801379?color=ffd492" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[280]]></id>
+			<id_proj><![CDATA[63]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[pacote gráfico para reportagens especiais]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://videos.abril.com.br/veja/id/4229b30e299a8b90e67fc8bec2e1ad23" width="640" height="360" frameborder="0"></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[302]]></id>
+			<id_proj><![CDATA[63]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[Depoimento cortado na edição final (video1 - depoimentos)]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/52563406?title=0&byline=0&portrait=0&badge=0&color=ffffff" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> ]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

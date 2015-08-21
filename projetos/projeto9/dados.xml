@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[9]]></id>
+		<id_cliente><![CDATA[11]]></id_cliente>
+		<id_parceiro><![CDATA[0]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[zehbra.com.br]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://www.zehbra.com.br]]></url>
+		<tx_info_pt><![CDATA[<p>Website do escrit&oacute;rio de arquitetura <a href="http://www.zehbra.com.br" target="_blank">Zehbra Arquitetos</a>.</p>
+<p>Este &eacute; um trabalho muito importante, pois foi o primeiro sistema de administra&ccedil;&atilde;o de conte&uacute;do que constru&iacute; para um cliente de verdade. Fiquei bastante satisfeito com o resultado final, pois consegui resolver todas as quest&otilde;es t&eacute;cnicas sem (muita) dor de cabe&ccedil;a e sem nenhuma interfer&ecirc;ncia no visual do site.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>linguagens<br /></strong>PHP 5.0<br />XML<br />javascript<br />ActionScript 2.0<br />HTML+CSS<br /><br /><strong>programas</strong><br />Flash <br />Dreamweaver <br />Photoshop</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[<p><b>languages<br /></b>PHP 5.0<br />XML<br />javascript<br />ActionScript 2.0<br />HTML+CSS<br /><br /><b>softwares</b><br />Flash CS3<br />Dreamweaver CS3<br />Photoshop CS3</p>]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2009-03-01]]></data>
+		<layout><![CDATA[img526/w50,img527/w50,img528/w100,img529/w50,img530/w50]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[526]]></id>
+			<id_proj><![CDATA[9]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[527]]></id>
+			<id_proj><![CDATA[9]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[528]]></id>
+			<id_proj><![CDATA[9]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[529]]></id>
+			<id_proj><![CDATA[9]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[530]]></id>
+			<id_proj><![CDATA[9]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

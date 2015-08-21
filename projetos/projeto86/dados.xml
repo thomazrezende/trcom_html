@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[86]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[O risco do racionamento ]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/multimidia/video/entenda-por-que-o-risco-do-racionamento-e-real]]></url>
+		<tx_info_pt><![CDATA[<p>O Brasil investiu em novas usinas e linhas de transmiss&atilde;o desde a &uacute;ltima crise energ&eacute;tica em 2001, mas o consumo crescente e os atrasos em investimentos impedem que o sistema tenha maior seguran&ccedil;a.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>reportagem/apresenta&ccedil;&atilde;o</strong><br />Marcelo Sakate</p>
+<p><strong>dire&ccedil;&atilde;o</strong><br />Alexandre Oliveira</p>
+<p><strong>imagens</strong><br />Rog&eacute;rio Assis<br />Leandro Muniz&nbsp;</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2013-02-06]]></data>
+		<layout><![CDATA[emb334/w_emb]]></layout>
+		<sb_layout><![CDATA[sb100,sb101,sb102,sb103,sb104,sb105,sb106,sb107]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[334]]></id>
+			<id_proj><![CDATA[86]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[video]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="//player.vimeo.com/video/70865795?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[91]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[Cafusa: a um passo da bola redonda]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/multimidia/video/cafusa-a-um-passo-da-bola-redonda]]></url>
+		<tx_info_pt><![CDATA[<p>Mudan&ccedil;as no padr&atilde;o dos gomos j&aacute; deixaram as bolas de futebol mais resistentes e mais r&aacute;pidas, mas mesmo com o avan&ccedil;o tecnol&oacute;gico, ainda n&atilde;o se chegou a um consenso.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>reportagem/apresenta&ccedil;&atilde;o</strong><br />Alexandre Salvador</p>
+<p><strong>edi&ccedil;&atilde;o/imagens</strong><br />Carlos Eduardo Jorge&nbsp;</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2013-06-10]]></data>
+		<layout><![CDATA[emb406/w_emb,]]></layout>
+		<sb_layout><![CDATA[sb55,sb56,sb57,sb58,sb60,sb61,sb62,sb63]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[406]]></id>
+			<id_proj><![CDATA[91]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="//player.vimeo.com/video/70866104?title=0&byline=0&portrait=0&color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

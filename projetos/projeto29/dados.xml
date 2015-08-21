@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[29]]></id>
+		<id_cliente><![CDATA[25]]></id_cliente>
+		<id_parceiro><![CDATA[0]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[jukabala.com.br]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://www.jukabala.com.br]]></url>
+		<tx_info_pt><![CDATA[<p>Website da banda Jukabala.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>programa&ccedil;&atilde;o</strong><br />Guilherme S&aacute;</p>
+<p><strong>linguagens</strong><br />ASP<br />Html</p>
+<p><strong>programas</strong><br />Adobe Flash <br />Adobe Dreamweaver</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[0]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2005-07-01]]></data>
+		<layout><![CDATA[]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[84]]></id>
+			<id_proj><![CDATA[29]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Animação de abertura]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://www.jukabala.com.br/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[85]]></id>
+			<id_proj><![CDATA[29]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Tela inicial]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://www.jukabala.com.br/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[86]]></id>
+			<id_proj><![CDATA[29]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Fotos]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://www.jukabala.com.br/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[87]]></id>
+			<id_proj><![CDATA[29]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Contato]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://www.jukabala.com.br/]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

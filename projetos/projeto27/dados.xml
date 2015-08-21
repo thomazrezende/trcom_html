@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[27]]></id>
+		<id_cliente><![CDATA[9]]></id_cliente>
+		<id_parceiro><![CDATA[0]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[Música de Bolso]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://www.musicadebolso.com.br]]></url>
+		<tx_info_pt><![CDATA[<p>Sistema de administra&ccedil;&atilde;o de conte&uacute;do para o site <a href="http://www.musicadebolso.com.br" target="_blank">www.musicadebolso.com.br</a>.</p>
+<p>Este foi um dos poucos projetos em que atuei exclusivamente como programador. Apesar disso n&atilde;o abandonei meu lado designer, pois procurei criar um ambiente de administra&ccedil;&atilde;o de conet&uacute;do fiel &agrave; est&eacute;tica do site. Embora de sistemas como esse necessitem de certa rigidez formal e funcional, o projeto n&atilde;o deixou de ser um trabalho visual prazeroso e gratificante. Posso tamb&eacute;m somar a isso, a satisfa&ccedil;&atilde;o de contribuir com essa iniciativa t&atilde;o bacana, que &eacute; o M&uacute;sica de Bolso.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>design</strong><br />Fabio Issao</p>
+<p><strong>produtora</strong><br /><a href="http://www.ioiofilmes.com/" target="_blank">Ioi&ocirc; Filmes</a></p>
+<p><strong>linguagens</strong><br />PHP 5.0<br />Javascript<br />Html+CSS<br />XML</p>
+<p><strong>programas</strong><br />Adobe Dreamweaver</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[0]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2009-11-01]]></data>
+		<layout><![CDATA[img518/w100,img517/w100]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[517]]></id>
+			<id_proj><![CDATA[27]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[518]]></id>
+			<id_proj><![CDATA[27]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

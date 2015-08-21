@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[99]]></id>
+		<id_cliente><![CDATA[0]]></id_cliente>
+		<id_parceiro><![CDATA[57]]></id_parceiro>
+		<id_suporte><![CDATA[3]]></id_suporte>
+		<projeto_pt><![CDATA[Future of Money]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://www.envisioning.io/money]]></url>
+		<tx_info_pt><![CDATA[<p>Sim, dinheiro &eacute; uma tecnologia. De feij&otilde;es ao ouro, ele tem mudado de forma ao longo dos s&eacute;culos e sua velocidade de transfer&ecirc;ncia tem acelerado, expandido e se multiplicado. A internet possibilitou redes vastas, novos comportamentos e sistemas inventivos que est&atilde;o redefinindo o conceito de valor. Este estudo prop&otilde;e uma vis&atilde;o &uacute;nica sobre o impacto da tecnologia sobre o dinheiro, sua descentraliza&ccedil;&atilde;o e sua transfer&ecirc;ncia cada vez menos dependente de intermedi&aacute;rios.&nbsp;</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>co-autoria (linha do tempo)</strong><br />Michell Zappa<strong><br /><br />pesquisa</strong><br />Michell Zappa<br />Thiara Cavadas<br />Erin Geld<br />Cintia Ferreira<br />Arthur Soares</p>
+<p><strong>design (relat&oacute;rio)</strong><br />Evelyn Leine</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[0]]></publicado_en>
+		<data><![CDATA[2013-11-20]]></data>
+		<layout><![CDATA[img658/w100,img659/w50,img660/w50,img661/w50,img662/w50]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[658]]></id>
+			<id_proj><![CDATA[99]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[659]]></id>
+			<id_proj><![CDATA[99]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[660]]></id>
+			<id_proj><![CDATA[99]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[661]]></id>
+			<id_proj><![CDATA[99]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[662]]></id>
+			<id_proj><![CDATA[99]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

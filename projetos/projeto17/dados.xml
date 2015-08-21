@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[17]]></id>
+		<id_cliente><![CDATA[17]]></id_cliente>
+		<id_parceiro><![CDATA[44]]></id_parceiro>
+		<id_suporte><![CDATA[1]]></id_suporte>
+		<projeto_pt><![CDATA[usebens.com.br]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://www.usebens.com.br]]></url>
+		<tx_info_pt><![CDATA[<p>Website da seguradora que pertence ao <a href="http://www.rodobens.com/" target="_blank">Grupo Rodobens</a>.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>ag&ecirc;ncia</strong><br /><a href="http://www.1mais1design.com.br/" target="_blank">1+1 publicidade&amp;design</a></p>
+<p><strong>linguagens</strong><br />html+css</p>
+<p><strong>programas</strong><br />Adobe Dreamweaver <br />Adobe Photoshop</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[0]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2008-07-01]]></data>
+		<layout><![CDATA[]]></layout>
+		<sb_layout><![CDATA[]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[49]]></id>
+			<id_proj><![CDATA[17]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Tela inicial]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[http://www.usebens.com.br/]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[50]]></id>
+			<id_proj><![CDATA[17]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Parceiros]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

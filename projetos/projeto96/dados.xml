@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[96]]></id>
+		<id_cliente><![CDATA[59]]></id_cliente>
+		<id_parceiro><![CDATA[0]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[Calendário 2014]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[]]></url>
+		<tx_info_pt><![CDATA[<p>V&iacute;deo comemorativo e brinde de final de ano para a assessoria de imprensa<a href="http://www.lucianabranco.com.br/" target="_blank"> Luciana Branco</a>.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>co-autoria</strong><br /><a href="http://cargocollective.com/yanaparente" target="_blank">Yana Parente</a></p>
+<p><strong>ilustra&ccedil;&atilde;o</strong><br /><a href="http://cargocollective.com/raulaguiar" target="_blank">Raul Aguiar</a></p>
+<p><strong>roteiro</strong><br />Luciana Branco</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[0]]></publicado_en>
+		<data><![CDATA[2013-12-02]]></data>
+		<layout><![CDATA[emb642/w_emb,img643/w100]]></layout>
+		<sb_layout><![CDATA[sb305,sb306,sb307,sb308,sb309,sb311,sb312,sb313]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[642]]></id>
+			<id_proj><![CDATA[96]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="//player.vimeo.com/video/81155497?title=0&byline=0&portrait=0&color=f05b3b" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[643]]></id>
+			<id_proj><![CDATA[96]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[85]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[Comer fora de casa]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/multimidia/video/por-que-ficou-tao-caro-comer-fora-de-casa]]></url>
+		<tx_info_pt><![CDATA[<p>Mais brasileiros t&ecirc;m acesso ao mercado de trabalho e se alimentam em restaurantes, mas apesar das reclama&ccedil;&otilde;es sobre os pre&ccedil;os, os sal&otilde;es continuam cheios. Entenda quais fatores encarecem essas refei&ccedil;&otilde;es.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>roteiro / apresenta&ccedil;&atilde;o</strong><br />Marcelo Sakate&nbsp;</p>
+<p><strong>dire&ccedil;&atilde;o</strong><br />Fernanda Monte Claro</p>
+<p><strong>edi&ccedil;&atilde;o</strong><br />Alexandre Oliveira</p>
+<p><strong>imgens</strong><br />Rog&eacute;rio Assis<br />Alexandre Oliveira</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2013-05-15]]></data>
+		<layout><![CDATA[emb332/w_emb]]></layout>
+		<sb_layout><![CDATA[sb73,sb74,sb75,sb76,sb77,sb78,sb80,sb81]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[332]]></id>
+			<id_proj><![CDATA[85]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[video]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="//player.vimeo.com/video/70864976?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

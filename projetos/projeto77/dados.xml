@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[77]]></id>
+		<id_cliente><![CDATA[22]]></id_cliente>
+		<id_parceiro><![CDATA[49]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[A bactéria que transformou a Terra]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[http://veja.abril.com.br/multimidia/video/a-bacteria-que-transformou-a-terra]]></url>
+		<tx_info_pt><![CDATA[<p>O primeiro ser vivo, uma bact&eacute;ria que surgiu h&aacute; 3,8 bilh&otilde;es de anos, deu in&iacute;cio a um processo de lapida&ccedil;&atilde;o que moldou nosso planeta at&eacute; ele se tornar este conhecido para&iacute;so de mares e continentes &ndash; e repleto de plantas e animais.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>dire&ccedil;&atilde;o</strong><br />Alexandre Oliveira</p>
+<p><strong>apresenta&ccedil;&atilde;o</strong><br />Filipe Vilicic</p>
+<p><strong>edi&ccedil;&atilde;o e sonoriza&ccedil;&atilde;o</strong><br />Gabriel Lira<br /><br /><strong>programas</strong><br />Adobe After Effects<br />Adobe Illustrator<br />Adobe Photoshop&nbsp;</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2012-09-22]]></data>
+		<layout><![CDATA[emb289/w_emb]]></layout>
+		<sb_layout><![CDATA[sb128,sb129,sb130,sb131,sb132,sb133,sb134,sb135]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[289]]></id>
+			<id_proj><![CDATA[77]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[vídeo]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="//player.vimeo.com/video/70864744?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

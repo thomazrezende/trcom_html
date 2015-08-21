@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[41]]></id>
+		<id_cliente><![CDATA[35]]></id_cliente>
+		<id_parceiro><![CDATA[45]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[Hepatite-c]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[]]></url>
+		<tx_info_pt><![CDATA[<p>V&iacute;deo para campanha de vacina&ccedil;&atilde;o contra a hepatite-c, da VRA Comunica&ccedil;&atilde;o.</p>
+<p>Este projeto est&aacute; aqui mais pelo trabalho de manipula&ccedil;&atilde;o de imagem do que de anima&ccedil;&atilde;o. O v&iacute;deo foi todo feito &agrave; partir de uma &uacute;nica imagem (cartaz abaixo) e o desafio foi separar a m&atilde;o e o rosto do homem, de forma que pudessem ser animados de forma independente, mas sem comprometer o visual da campanha.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>ag&ecirc;ncia</strong><br />VRA Comunica&ccedil;&atilde;o</p>
+<p><strong>produtora</strong><br /><a href="http://www.apneiafilmes.com.br/" target="_blank">Apn&eacute;ia Filmes</a></p>
+<p><strong>programas</strong><br />Adobe Photoshop <br />Adobe After Effects</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[0]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2009-12-01]]></data>
+		<layout><![CDATA[emb246/w_emb]]></layout>
+		<sb_layout><![CDATA[sb296,sb297,sb298]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[125]]></id>
+			<id_proj><![CDATA[41]]></id_proj>
+			<tipo><![CDATA[img]]></tipo>
+			<label_pt><![CDATA[Campanha da VRA Comunicação]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[Foto original e cartaz da campanha.]]></legenda_pt>
+			<tx_embed><![CDATA[]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+		<arquivo>
+			<id><![CDATA[246]]></id>
+			<id_proj><![CDATA[41]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[Vídeo]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/39020963?title=0&byline=0&portrait=0&color=ffd492" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>

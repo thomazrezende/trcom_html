@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projeto>
+	<dados>
+		<id><![CDATA[43]]></id>
+		<id_cliente><![CDATA[0]]></id_cliente>
+		<id_parceiro><![CDATA[16]]></id_parceiro>
+		<id_suporte><![CDATA[2]]></id_suporte>
+		<projeto_pt><![CDATA[Declaração]]></projeto_pt>
+		<projeto_en><![CDATA[]]></projeto_en>
+		<url><![CDATA[]]></url>
+		<tx_info_pt><![CDATA[<p>Anima&ccedil;&atilde;o contando a hist&oacute;ria do casal, exibida na cerim&ocirc;nia de casamento.</p>
+<p>Este foi sem d&uacute;vida o presente de casamento mais trabalhoso que j&aacute; dei. Foram mais de 20 dias de trabalho intenso em conjunto com o noivo (que tamb&eacute;m &eacute; meu primo) e outro amigo redator para montar o roteiro, cen&aacute;rios, personagens e animar toda a hist&oacute;ria. Ainda bem que o noivo &eacute; <em>sound designer</em> e se encarregou de tudo em rela&ccedil;&atilde;o ao &aacute;udio. Maior que esse trabalho todo, s&oacute; mesmo a satisfa&ccedil;&atilde;o de ver a emo&ccedil;&atilde;o da noiva (que n&atilde;o tinha id&eacute;ia do que veria) diante do resultado final.</p>]]></tx_info_pt>
+		<tx_info_en><![CDATA[]]></tx_info_en>
+		<tx_cred_pt><![CDATA[<p><strong>&aacute;udio</strong><br />Cristiano Pinheiro</p>
+<p><strong>reda&ccedil;&atilde;o</strong><br />Leandro Louren&ccedil;&atilde;o</p>
+<p><strong>programas</strong><br />Adobe After Effects <br />Adobe Photoshop<br />Adobe Premiere</p>
+<p>&nbsp;</p>]]></tx_cred_pt>
+		<tx_cred_en><![CDATA[]]></tx_cred_en>
+		<publicado_pt><![CDATA[1]]></publicado_pt>
+		<publicado_en><![CDATA[]]></publicado_en>
+		<data><![CDATA[2010-01-01]]></data>
+		<layout><![CDATA[emb236/w_emb]]></layout>
+		<sb_layout><![CDATA[sb191,sb192,sb193,sb194,sb195,sb196,sb198,sb199]]></sb_layout>
+	</dados>
+	<arquivos>
+		<arquivo>
+			<id><![CDATA[236]]></id>
+			<id_proj><![CDATA[43]]></id_proj>
+			<tipo><![CDATA[emb]]></tipo>
+			<label_pt><![CDATA[Video]]></label_pt>
+			<label_en><![CDATA[]]></label_en>
+			<legenda_en><![CDATA[]]></legenda_en>
+			<legenda_pt><![CDATA[]]></legenda_pt>
+			<tx_embed><![CDATA[<iframe src="http://player.vimeo.com/video/39002313?title=0&amp;byline=0&amp;portrait=0&amp;color=ffd492" width="640" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>]]></tx_embed>
+			<url><![CDATA[]]></url>
+		</arquivo>
+	</arquivos>
+</projeto>
